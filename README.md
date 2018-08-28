@@ -27,6 +27,7 @@ Given the input:
 Alice 0 0 5
 Bob 1.2 2.4 1.2
 Carol 10 10 3
+
 ```
 
 You should expect the output:

@@ -32,3 +32,9 @@ Carol 10 10 3
 
 You should expect the output:
 
+```
+Alice is close to 4 locations with average distance: 2.4358061222477447
+Bob is close to 1 locations with average distance: 0.0
+Carol is close to 0 locations with average distance: 0.0
+```
+

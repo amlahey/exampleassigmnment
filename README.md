@@ -24,7 +24,7 @@ Given the input:
 -2 -0.5
 1.2 2.4
 3
-Alice 0 0 0.5
+Alice 0 0 5
 Bob 1.2 2.4 1.2
 Carol 10 10 3
 ```

@@ -10,11 +10,7 @@ First, an integer indicating the number of locations. Following this will be tha
 
 ## Output
 
-For each person, provide output in the form:
-
-```
-Name #_of_locations avg_distance
-```
+For each person, provide output the reports the persons name, number of locations within the radius, and the average distance to the person of those locations. Match the format of the output in the example below.
 
 ## Example
 
